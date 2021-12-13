@@ -9,7 +9,6 @@ npm i svelte-typewriter-transition
 
 ## Usage
 
-Create a route store in your `stores.js`:
 ```svelte
 {#if checked}
   <p transition:typewriter>
