@@ -7,6 +7,6 @@
   "author": "Michael Afanasyev",
   "license": "MIT",
   "dependencies": {
-    "ramda": "^0.27.1"
+    "rambda": "^6.9.0"
   }
 }
