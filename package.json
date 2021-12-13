@@ -4,6 +4,9 @@
   "description": "A simple typewriter transition effect for Svelte applications with characters correction support",
   "main": "typewriter.js",
   "module": "typewriter.js",
-  "author": "zyxd",
-  "license": "MIT"
+  "author": "Michael Afanasyev",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
 }
