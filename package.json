@@ -1,6 +1,6 @@
 {
   "name": "svelte-typewriter-transition",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple typewriter transition effect for Svelte applications with characters correction support",
   "main": "typewriter.js",
   "module": "typewriter.js",
